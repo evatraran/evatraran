@@ -1,7 +1,7 @@
 # 👋 Hello!
 - 👧 I'm Eva Cecilie
 - 🎓 Applied Computer Technology student at Oslo Metropolitan University
-- 📫 How to reach me: s156762@oslomet.no / eva.traran@gmail.com
+- 📫 How to reach me: s156762@oslomet.no
 
 ## 🧰 Languages and Tools:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" align="left" />
@@ -17,5 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" height="40" align="left" /> 
 <br />
 
+<!--
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evatraran&theme=dracula)
+-->
